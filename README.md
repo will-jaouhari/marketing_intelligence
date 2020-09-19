@@ -1,5 +1,5 @@
 # Marketing-Intelligence
-This repository contains all the code I wrote for Marketing Intelligence course. 
+This repository contains all the code my team and I wrote for our Marketing Intelligence course. 
 Thanks for the guidance of Professor Allison J.B. Chaney and my teammates at Fuqua Business School. 
 The topics include:
 - Sampling
