@@ -5,6 +5,6 @@ The topics include:
 - Sampling
 - Secondary data
 - Conjoint Analysis
-- Segementation
+- Segmentation
 - Classification
 - Predicting Customer Churn
